@@ -1,14 +1,4 @@
 # guild-verification-commit
 Guild.xyz verification commit
- swfws
-wefwefw
-ewfw
-wefwfw
-wefw
-wefw
-wefw
-sdfs
-sdf
-sdf
-sdfs
-sdf
+ ee
+ 
