@@ -1,17 +1,5 @@
-# guild-verification-commit
-Guild.xyz verification commit
- ee
- 
-e
-e
-sdfsfs
-sdfswdgfs
-sdfwfs
-aeffassdfs
-sddfsdfssdfsfs
-sdf
-sdfsfs
-sdfs
-sdfs
-sdfsfs
-sdfsf
+# Guild Verification Commit
+
+Building on Base ecosystem.
+
+Active contributor since 2024.
